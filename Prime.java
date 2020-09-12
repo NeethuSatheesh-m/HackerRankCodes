@@ -1,3 +1,4 @@
+//code for print the prime number upto a limit
 import java.util.*;
 
 
